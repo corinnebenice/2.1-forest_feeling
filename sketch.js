@@ -96,7 +96,7 @@ function preload() {
 
   font = loadFont("NeutralStd-Regular.otf");
 
-  img = loadImage('arrow.png');
+  //img = loadImage('arrow.png');
 
   // font = loadFont("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 }
